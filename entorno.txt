@@ -1,0 +1,1 @@
+esta nueva línea debería aparecer en un diff
